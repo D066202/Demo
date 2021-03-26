@@ -12,4 +12,3 @@ stages:
       appName: 'RiskManagement'
       apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
       credentialsId: 'cfdeploy'
-      
